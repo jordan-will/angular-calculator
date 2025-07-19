@@ -1,0 +1,14 @@
+$default-color: #ccc;
+
+.btn-calc{
+  $btn-size: 75px;
+  height: $btn-size;
+  width: $btn-size;
+  font-size: 1.5rem;
+  background-color: $default-color;
+  font-weight: bold;
+  color: #fff;
+  text-transform: uppercase;
+  border: none;
+  cursor: pointer;
+}

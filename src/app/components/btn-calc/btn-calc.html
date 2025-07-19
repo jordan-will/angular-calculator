@@ -1,0 +1,7 @@
+<button 
+  class="btn-calc"
+  [ngStyle]="{'background-color': typeOp() == 'number'? '#b967ff' : '#05ffa1' }"
+  (click)="sendData()"
+  >
+  {{  btnLabel()  }}
+</button>
