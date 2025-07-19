@@ -3,7 +3,7 @@
 Uma calculadora matemática simples com Angular.
 
 <div align="center">
-  <img src="./screen/calculator.gif" alt="Descrição" width="50%"/>
+  <img src="./screen/calculator.gif" alt="Descrição" width="80%"/>
 </div>
 
 ### ⚒️ Technologies
