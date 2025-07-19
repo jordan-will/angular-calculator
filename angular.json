@@ -17,6 +17,8 @@
         "build": {
           "builder": "@angular/build:application",
           "options": {
+            "outputPath": "dist/angular-calculator",
+            "baseHref": "/angular-calculator/",
             "browser": "src/main.ts",
             "polyfills": [
               "zone.js"

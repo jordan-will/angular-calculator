@@ -2,7 +2,9 @@
 
 Uma calculadora matemática simples com Angular.
 
-[!calculator](./screen/calculator.gif)
+<div align="center">
+  <img src="./screen/calculator.gif" alt="Descrição" />
+</div>
 
 ### ⚒️ Technologies
 - Angular
@@ -26,3 +28,5 @@ Start the project
 ```bash
 npm start
 ```
+## Live example
+You can access live [here](https://jordan-will.github.io/angular-calculator/)
