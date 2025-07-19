@@ -28,5 +28,5 @@ Start the project
 ```bash
 npm start
 ```
-## Live example
+## 🌐 Live example
 You can access live [here](https://jordan-will.github.io/angular-calculator/)
